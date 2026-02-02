@@ -13,8 +13,7 @@ FROM customer
 WHERE discount_applied = 'Yes'
   AND purchase_amount >= (
       SELECT AVG(purchase_amount)
-      FROM customer
-);
+      FROM customer);
 
 -- Q3: Top 5 Produkte mit höchster durchschnittlicher Bewertung
 SELECT item_purchased,
