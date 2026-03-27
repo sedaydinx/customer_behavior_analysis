@@ -118,12 +118,3 @@ Dieses Projekt demonstriert:
 * Saubere Datenaufbereitung
 * Business-orientierte SQL-Analyse
 * Professionelle Dashboard-Erstellung mit Power BI
-
----
-
-Wenn du willst, können wir als Nächstes:
-
-* eine **Kurzbeschreibung für Lebenslauf / LinkedIn**
-* oder **Interview-Antworten („Erklären Sie Ihr Projekt“)**
-* oder **README auf Englisch**
-  machen.
