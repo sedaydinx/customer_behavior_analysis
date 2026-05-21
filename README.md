@@ -19,7 +19,7 @@ Das Projekt wurde mit **Python, SQL und Power BI** umgesetzt und eignet sich als
   * Produktkategorien
   * Kundenbewertungen
   * Abonnements & Rabatte
-  * Versandarten
+  * Versandarten 
 
 ---
 
