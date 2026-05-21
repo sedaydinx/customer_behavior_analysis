@@ -8,7 +8,7 @@ Ziel ist es, **Kundenverhalten zu analysieren**, zentrale **KPIs** abzuleiten un
 Das Projekt wurde mit **Python, SQL und Power BI** umgesetzt und eignet sich als **Portfolio-Projekt für Data-Analyst-Positionen**.
 
 ---
-
+ 
 ## 📁 Datensatz
 
 * Kundendaten aus dem Einzelhandel (synthetischer Datensatz)
